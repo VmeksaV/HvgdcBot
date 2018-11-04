@@ -1,0 +1,1 @@
+[null,{"name":"NowyKanał","temp":"member","event-type":"6","actions":[{"channelName":"✈Lotnisko✈","topic":"","position":"","storage":"1","varName":"channel","name":"Create Text Channel"},{"channel":"5","varName":"channel","message":"Witaj ${tempVars(\"member\")}!","storage":"0","varName2":"","name":"Send Message"}]}]
